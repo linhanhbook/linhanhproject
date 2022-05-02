@@ -4,3 +4,4 @@
 from . import partner_shipping
 from . import sale_order
 from . import res_country_state
+from . import product_product
